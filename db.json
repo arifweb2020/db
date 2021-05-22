@@ -1,0 +1,53 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "arif",
+      "password": "123"
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Madina Hotel",
+      "address": "Btm 1st stage",
+      "rating": "4.5",
+      "email": "madina@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Arslan Hotel",
+      "address": "Btm 2nd  stage",
+      "rating": "4.9",
+      "email": "arslan@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Arif Hotel",
+      "address": "Frazer Town",
+      "rating": "4.5",
+      "email": "arif@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Amenia Hotel",
+      "address": "Coxtown  stage",
+      "rating": "4.9",
+      "email": "amenia@gmail.com"
+    },
+    {
+      "name": "Shaliomar sadsa",
+      "address": "wasseypur",
+      "rating": "5.8",
+      "email": "wasseypaur@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Bherouz",
+      "address": "jp nagar",
+      "rating": "5",
+      "email": "behroz@gmail.com",
+      "id": 6
+    }
+  ]
+}

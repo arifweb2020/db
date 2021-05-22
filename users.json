@@ -1,0 +1,46 @@
+{
+  "resturant": [
+    {
+      "name": "Madina Hotel",
+      "address": "Btm 1st stage",
+      "rating": "4.5",
+      "email": "madina@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Arslan Hotel",
+      "address": "Btm 2nd  stage",
+      "rating": "4.9",
+      "email": "arslan@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Arif Hotel",
+      "address": "Frazer Town",
+      "rating": "4.5",
+      "email": "arif@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Amenia Hotel",
+      "address": "Coxtown  stage",
+      "rating": "4.9",
+      "email": "amenia@gmail.com"
+    },
+    {
+      "name": "kunal kamra",
+      "address": "#81 koramnagala",
+      "rating": "5",
+      "email": "arifhussainb2019@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Danish",
+      "address": "watergam",
+      "rating": "3",
+      "email": "danish@gmail.com",
+      "id": 6
+    }
+  ]
+}
